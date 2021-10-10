@@ -60,11 +60,11 @@ publishDir = "docs"
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "activity"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
-    ["blog", "/blog.md"],
     ["about me", "/about-me.md"],
     ["resume", "/resume.md"],
     ["projects", "/projects.md"],
+    ["blog", "/blog.md"],
   ]

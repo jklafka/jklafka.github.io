@@ -6,24 +6,6 @@
     <description>Recent content on Friends in high-dimensional places</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://jklafka.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://jklafka.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jklafka.github.io/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://jklafka.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jklafka.github.io/resume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About me</title>
       <link>http://jklafka.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,6 +21,25 @@
       
       <guid>http://jklafka.github.io/blog/new-url/</guid>
       <description>Hello</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://jklafka.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jklafka.github.io/projects/</guid>
+      <description>Engineering Research In a past life, I was a computer and cognitive scientist. I published work for two main projects, both of which are available as free full-text PDFs online with all code and data available on GitHub (I&amp;rsquo;m an advocate of open and reproducible science).
+Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words Working with Allyson Ettinger of the Toyota Technological Institute of Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://jklafka.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jklafka.github.io/resume/</guid>
+      <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
     <item>
