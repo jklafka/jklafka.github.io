@@ -29,8 +29,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jklafka.github.io/projects/</guid>
-      <description>Engineering Research In a past life, I was a computer and cognitive scientist. I published work for two main projects, both of which are available as free full-text PDFs online with all code and data available on GitHub (I&amp;rsquo;m an advocate of open and reproducible science).
-Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words Working with Allyson Ettinger of the Toyota Technological Institute of Chicago.</description>
+      <description>Engineering Data science Inside of work, I collect and analyze various forms of usage data for the Search function in Epic&amp;rsquo;s software.
+Outside of work, I occasionally do side projects analyzing other datasets out of curiosity and to keep my skills fresh. One such project is analyzing Tyler the Creator&amp;rsquo;s tracks for various attributes using the (public Spotify API)[https://developer.spotify.com/documentation/web-api/] as a data source. You can read about this project here.</description>
     </item>
     
     <item>
@@ -39,7 +39,7 @@ Spying on your neighbors: Fine-grained probing of contextual embeddings for info
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jklafka.github.io/resume/</guid>
-      <description>#the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
+      <description>Document here</description>
     </item>
     
     <item>
