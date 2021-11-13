@@ -66,5 +66,5 @@ publishDir = "docs"
     ["about me", "/about-me.md"],
     ["resume", "/resume.md"],
     ["projects", "/projects.md"],
-    ["blog", "/blog.md"],
+    # ["blog", "/blog.md"],
   ]
