@@ -30,8 +30,8 @@ publishDir = "docs"
   # Note: result of the tree command
   userName = "jklafka"
   pcName = "Ancalagon"
-  workDir = "work"
-  profile = "profile.txt"
+  workDir = "profile"
+  profile = "about-me.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -63,7 +63,7 @@ publishDir = "docs"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["about me", "/about-me.md"],
-    ["resume", "/resume.md"],
+    ["resume", "https://jklafka.github.io/Josef Klafka Resume.pdf"],
     ["projects", "/projects.md"],
     # ["blog", "/blog.md"],
   ]
