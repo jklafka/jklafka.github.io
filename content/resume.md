@@ -2,4 +2,4 @@
 title: Resume
 ---
 
-Document [here](/resume.pdf)
+Document [here](/Josef Klafka Resume.pdf)
