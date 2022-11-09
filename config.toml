@@ -15,7 +15,7 @@ publishDir = "docs"
   # Note: You can choose between
   # Note: ["monokai", "powershell", "gruvbox_light", "gruvbox_dark", "solarized_light", "solarized_dark", "ubuntu", "retro"]
   # Note: If you want to use the Goph theme, set it to "goph" (See README.md)
-  schema = "monokai"
+  schema = "gruvbox_dark"
 
   # Note: in terminal
   # [userName]@[pcName]:~/$ cd [workDir]
@@ -63,7 +63,7 @@ publishDir = "docs"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["about me", "/about-me.md"],
-    ["resume", "https://jklafka.github.io/Josef Klafka Resume.pdf"],
+    ["resume", "https://jklafka.github.io/assets/Josef Klafka Resume.pdf"],
     ["projects", "/projects.md"],
     # ["blog", "/blog.md"],
   ]
