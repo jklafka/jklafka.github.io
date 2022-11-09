@@ -4,7 +4,17 @@
     <title>Friends in high-dimensional places</title>
     <link>http://jklafka.github.io/</link>
     <description>Recent content on Friends in high-dimensional places</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://jklafka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 03 Oct 2021 16:16:22 -0500</lastBuildDate><atom:link href="http://jklafka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://jklafka.github.io/posts/my-second-post/</link>
+      <pubDate>Sun, 03 Oct 2021 16:16:22 -0500</pubDate>
+      
+      <guid>http://jklafka.github.io/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About me</title>
       <link>http://jklafka.github.io/about-me/</link>
@@ -32,15 +42,6 @@ In my free time, I run, hike, cook and watch horror movies.</description>
       <guid>http://jklafka.github.io/projects/</guid>
       <description>Data science Outside of work, I occasionally do side projects analyzing other datasets out of curiosity and to keep my skills fresh. One such project is analyzing Tyler the Creator&amp;rsquo;s tracks for various attributes using the (public Spotify API)[https://developer.spotify.com/documentation/web-api/] as a data source. You can read about this project here. I&amp;rsquo;m also a huge fan of maps.
 Inside of work, I collect and analyze various forms of usage data for the Search function in Epic&amp;rsquo;s software.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>http://jklafka.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jklafka.github.io/resume/</guid>
-      <description>Document [here](/Josef Klafka Resume.pdf).</description>
     </item>
     
     <item>
