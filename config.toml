@@ -63,7 +63,7 @@ publishDir = "docs"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [
     ["about me", "/about-me.md"],
-    ["resume", "https://jklafka.github.io/assets/Josef Klafka Resume.pdf"],
+    ["resume", "https://jklafka.github.io/Josef Klafka Resume.pdf"],
     ["projects", "/projects.md"],
     # ["blog", "/blog.md"],
   ]

@@ -8,4 +8,4 @@ In my free time, I run, hike, cook and watch horror movies.
 
 Here's a recent picture of me at [the Gum Wall](https://en.wikipedia.org/wiki/Gum_Wall) in downtown Seattle:
 
-![Picture of Joe at the Gum Wall in downtown Seattle](/assets/gum_wall_resize.jpeg "Gum Wall")
+![Picture of Joe at the Gum Wall in downtown Seattle](https://jklafka.github.io/gum_wall_resize.jpeg "Gum Wall")
